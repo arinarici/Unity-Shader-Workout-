@@ -6,3 +6,4 @@
 
 lokalde değiştirildi!
 
+git de değiştirildi!
