@@ -2,4 +2,4 @@
 
 # Test Projesi
 
-
+desktop pull test 
