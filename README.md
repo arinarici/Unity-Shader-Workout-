@@ -2,4 +2,7 @@
 
 # Test Projesi
 
-desktop pull test 
+
+
+lokalde değiştirildi!
+
