@@ -128,7 +128,7 @@ Material:
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
-    - _clipping: 0.603
+    - _clipping: 0.543
     - _noise_scale: 172
     - _twirl_strenght: 7.97
     m_Colors:
